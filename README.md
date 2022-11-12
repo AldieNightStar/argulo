@@ -29,10 +29,10 @@ import (
 )
 
 func main() {
-    // Don't forget to put '.' at end to make chain
+    // Don't forget to put '.' at the end to make a chain
 
     // Create new argument parser for "tool"
-    // a - is now new parser for arguments
+    // a - is new parser for arguments
 	a := argulo.New("tool").
         // This param is required
         // We add param and samples to it
