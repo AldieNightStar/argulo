@@ -1,3 +1,3 @@
-module github.com/AldieNightStar/Argulo
+module github.com/AldieNightStar/argulo
 
 go 1.19
